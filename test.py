@@ -27,4 +27,3 @@ c = sorted(c)
 
 for i,s in c:
 	print(s.rstrip('\n'),end="")
-print("")
